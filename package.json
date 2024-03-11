@@ -1,0 +1,17 @@
+{
+  "name": "create-cosmos-wallet",
+  "version": "1.0.0",
+  "description": "a cosmos wallet generator",
+  "main": "index.js",
+  "homepage": "https://github.com/vietdh/create-cosmos-wallet",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Wallet",
+    "create-cosmos-wallett",
+	"cosmos"
+  ],
+  "author": "vietdh",
+  "license": "MTL"
+}
